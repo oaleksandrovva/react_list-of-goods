@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,SACE,oBAAa,CAAb,YAAa,CACb,YAAQ,CAAR,OACF","file":"main.869fa346.chunk.css","sourcesContent":[".buttons {\n  display: flex;\n  gap: 5px;\n}\n"]}
